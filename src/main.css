@@ -1,0 +1,68 @@
+body,h4{
+    margin:0px;
+}
+.wrap{
+    width:900px;
+    margin:0px auto;
+}
+.wrap img{
+    display:block;
+}
+.menu{
+    width:900px;
+    height:60px;
+    background-color: #d8eeec;
+    border-radius:8px;
+    margin-top:15px;
+    margin-bottom:15px;
+    display:flex;
+    align-items: center;
+}
+
+.wrap .menu button{
+    margin-left:20px;
+}
+
+.mt10{
+    margin-top:10px;
+}
+.mb30{
+    margin-bottom:30px;
+}
+
+.goods_pic{
+    width:100%;
+}
+.goods_name{
+    font-size:14px;
+    color:#000;
+}
+.price{
+    margin-top:12px;
+    margin-bottom:5px;
+    color: #ff6abd;
+    font-size:12px;
+}
+.price em{
+    font-family:'Microsoft YaHei';
+    font-size:24px;
+    font-style:normal;
+    font-weight:bold;
+    margin-left:10px;
+
+}
+
+.total_price{
+    line-height:50px;
+    border:1px solid #e3e9ef;
+    border-top:0px;
+    text-align:right;
+    font-size:12px;
+}
+
+.total_price em{
+    font-style:normal;
+    color:#ff8b00;
+    font-size:24px;
+    margin-right:20px;
+}
